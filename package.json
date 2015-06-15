@@ -1,0 +1,24 @@
+{
+  "name": "md-blog-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "restler": "^3.2.2",
+    "to-markdown": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bherila/md-blog-converter.git"
+  },
+  "author": "Ben Herila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bherila/md-blog-converter/issues"
+  },
+  "homepage": "https://github.com/bherila/md-blog-converter#readme"
+}
